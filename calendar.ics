@@ -4,7 +4,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 PRODID:-//Custom Sheet to ICS//EN
 BEGIN:VEVENT
-UID:666b267c-efd9-4a7f-9f67-001622cdb9cf
+UID:3a40da86-8c9a-42b3-9ec5-4308a3434407
 SUMMARY:FIRST DAY OF PRACTICE
 DTSTART;VALUE=DATE:20250804
 DTEND;VALUE=DATE:20250805
@@ -12,7 +12,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:9192efc2-fbdb-438d-a5f6-d0a7840cfa5b
+UID:2cb6918b-ca93-4e53-ba43-f7e46cfa9295
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250804T080000
 DTEND;TZID=America/Los_Angeles:20250804T100000
@@ -20,7 +20,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:d16672b1-6267-4261-a2e9-5ea100d1b366
+UID:3ab35f93-3061-4a46-a5be-cd9799a93733
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20250804T143000
 DTEND;TZID=America/Los_Angeles:20250804T163000
@@ -28,7 +28,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:80aa2e9b-4b41-41da-baf1-b221808f5611
+UID:a09d638d-705b-4ef5-b027-3927d52a8b2f
 SUMMARY:As
 DTSTART;TZID=America/Los_Angeles:20250805T080000
 DTEND;TZID=America/Los_Angeles:20250805T100000
@@ -36,7 +36,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:d39a4c49-7a68-489b-8074-436c7b97280f
+UID:af0a34e2-35d9-47de-ac70-b9fde4ad8264
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250805T143000
 DTEND;TZID=America/Los_Angeles:20250805T163000
@@ -44,7 +44,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:c1a28d27-f0f6-467b-bb39-4720fd387395
+UID:e2850b4a-98e3-4c8c-90d3-f28ac7b71a22
 SUMMARY:Bs
 DTSTART;TZID=America/Los_Angeles:20250806T080000
 DTEND;TZID=America/Los_Angeles:20250806T100000
@@ -52,7 +52,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:e31b4e38-0e24-49a4-9373-1dfe2c52cb0f
+UID:bd2ac8d5-3ade-4842-a19f-09ec5e1da012
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250806T143000
 DTEND;TZID=America/Los_Angeles:20250806T163000
@@ -60,7 +60,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:b443b102-6c71-4324-bbf1-8c20ec698a84
+UID:9f34883e-5ef3-42b7-a1fc-ab7c53cd3ede
 SUMMARY:As
 DTSTART;TZID=America/Los_Angeles:20250807T080000
 DTEND;TZID=America/Los_Angeles:20250807T100000
@@ -68,7 +68,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:286c9694-84ec-4de5-a3d6-6af3a90d7379
+UID:9598d984-8bc5-455f-8077-519b416a97e4
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250807T143000
 DTEND;TZID=America/Los_Angeles:20250807T163000
@@ -76,7 +76,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:33ddb925-0b4f-4222-8411-3794487ef835
+UID:61116423-b804-40f5-ad24-a8ff58897a93
 SUMMARY:Bs
 DTSTART;TZID=America/Los_Angeles:20250808T080000
 DTEND;TZID=America/Los_Angeles:20250808T100000
@@ -84,7 +84,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:d8c9d1be-cce9-4d4b-ad64-45991cfdf446
+UID:68abe60c-59e5-4b14-ba2b-582682df8687
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250808T143000
 DTEND;TZID=America/Los_Angeles:20250808T163000
@@ -92,7 +92,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:202b6392-3282-4a38-a246-098016217437
+UID:439a44a2-a5a9-431d-9747-db549aa80b53
 SUMMARY:ALL COMBINE FUNDRAISER
 DTSTART;TZID=America/Los_Angeles:20250809T080000
 DTEND;TZID=America/Los_Angeles:20250809T100000
@@ -100,7 +100,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:ff7dfb5f-6f37-4b19-99cc-ae91362fac9a
+UID:70e88127-15af-4906-9854-257e86535df4
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250811T143000
 DTEND;TZID=America/Los_Angeles:20250811T163000
@@ -108,7 +108,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:37c40fc6-0df3-490a-9878-a6d9fba3f605
+UID:d47942df-c10b-41ca-a39b-ce01efc5d751
 SUMMARY:As
 DTSTART;TZID=America/Los_Angeles:20250812T080000
 DTEND;TZID=America/Los_Angeles:20250812T100000
@@ -116,7 +116,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:0ea88a97-87b0-4ba0-bf90-19165ca41c3d
+UID:115d8169-01c1-454c-977d-b6f6902368d3
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250812T143000
 DTEND;TZID=America/Los_Angeles:20250812T163000
@@ -124,7 +124,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:e58c8122-54be-42f1-854e-30af403027e4
+UID:34aa2d2c-042a-4480-888a-5c13caddf4a6
 SUMMARY:Bs
 DTSTART;TZID=America/Los_Angeles:20250813T080000
 DTEND;TZID=America/Los_Angeles:20250813T100000
@@ -132,7 +132,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:c1f5790f-48bd-4672-bb66-f4df250a4b2d
+UID:2625e8ac-537c-4777-bcbd-532023a51184
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250813T143000
 DTEND;TZID=America/Los_Angeles:20250813T163000
@@ -140,7 +140,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:2952af90-3634-49ac-ab63-c57c719862cf
+UID:10fc1241-8068-4fa0-b025-eeeb9f22bace
 SUMMARY:As
 DTSTART;TZID=America/Los_Angeles:20250814T080000
 DTEND;TZID=America/Los_Angeles:20250814T100000
@@ -148,7 +148,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:35d157e2-e4aa-4f5f-93ce-824c642f0f64
+UID:b76b3b32-88a0-49de-a4f9-e93b58c3dafd
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250814T143000
 DTEND;TZID=America/Los_Angeles:20250814T163000
@@ -156,7 +156,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:fea7f6be-4ddf-481d-a469-75cf80ba6c70
+UID:fb4972cb-843a-4fd0-a103-e89b4db11b68
 SUMMARY:Bs
 DTSTART;TZID=America/Los_Angeles:20250815T080000
 DTEND;TZID=America/Los_Angeles:20250815T100000
@@ -164,7 +164,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:6a76f376-c160-44b3-94ab-46d8255f5f5e
+UID:f3409a90-1633-4f11-888d-df80d8c76a4c
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250815T143000
 DTEND;TZID=America/Los_Angeles:20250815T163000
@@ -172,7 +172,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:97733e00-cba7-4ca4-a7cf-163853daba5a
+UID:bdbcf92f-b1c2-42be-af95-158b39ba7099
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250816T080000
 DTEND;TZID=America/Los_Angeles:20250816T100000
@@ -180,7 +180,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:2a44e527-ec33-4ea5-ad54-864cd10a5ea0
+UID:eebe10ac-95c6-4a8d-a61f-462e8106d1f1
 SUMMARY:v Malibu HS (UNOFFICAL SCRIMMAGE)
 DTSTART;TZID=America/Los_Angeles:20250818T140000
 DTEND;TZID=America/Los_Angeles:20250818T160000
@@ -188,7 +188,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:9ecaa8a1-0e5c-498d-82e4-5b5784515c00
+UID:2edc48db-de9b-4e26-8a29-ece59cb62e25
 SUMMARY:As
 DTSTART;TZID=America/Los_Angeles:20250819T060000
 DTEND;TZID=America/Los_Angeles:20250819T070000
@@ -196,7 +196,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:a2c54dc0-83e5-43cd-a7cd-f1a25577afd6
+UID:d10394a0-f55f-4b3b-b668-15877b2a7e6e
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250819T143000
 DTEND;TZID=America/Los_Angeles:20250819T163000
@@ -204,7 +204,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:9eb6ebff-4323-455d-88d0-31094afb05e8
+UID:c7352b41-9496-478d-a021-131ddd44a8a7
 SUMMARY:B
 DTSTART;TZID=America/Los_Angeles:20250820T060000
 DTEND;TZID=America/Los_Angeles:20250820T070000
@@ -212,7 +212,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:35faa7c0-f88e-4b86-b5c2-fa36fac3434f
+UID:7586230f-d2f2-4671-aaed-e61cdb385f35
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250820T130000
 DTEND;TZID=America/Los_Angeles:20250820T150000
@@ -220,7 +220,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:390ae01a-5a51-4b1d-b254-c0cec4cdb71f
+UID:93c2afa0-851d-49a4-9412-0001239d6322
 SUMMARY:FIRST DAY OF SCHOOL
 DTSTART;VALUE=DATE:20250821
 DTEND;VALUE=DATE:20250822
@@ -228,7 +228,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:3547250f-c734-4736-a90d-e886db6ed949
+UID:7e6f688d-7d49-40f3-8578-64d6ea73138e
 SUMMARY:v Notre Dame HS V
 DTSTART;TZID=America/Los_Angeles:20250821T153000
 DTEND;TZID=America/Los_Angeles:20250821T173000
@@ -236,7 +236,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:5484ed50-001f-4855-98d7-72000e8708b8
+UID:07415f4e-58ff-4c82-b543-cc3f88d63fd2
 SUMMARY:JV
 DTSTART;TZID=America/Los_Angeles:20250821T164000
 DTEND;TZID=America/Los_Angeles:20250821T184000
@@ -244,7 +244,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:29efde26-e266-479f-9b14-21de18f5f1ad
+UID:1e72600a-7285-4cc0-8743-d423b6191110
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250822T143000
 DTEND;TZID=America/Los_Angeles:20250822T164500
@@ -252,7 +252,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:3b673280-b6c2-4163-8332-f8532f501886
+UID:c0e71304-cb05-4afd-9519-4400231bf0e3
 SUMMARY:VAR ONLY
 DTSTART;TZID=America/Los_Angeles:20250823T080000
 DTEND;TZID=America/Los_Angeles:20250823T100000
@@ -260,7 +260,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:200156fb-90a4-4e33-8337-33fb377cecc6
+UID:59cb6b05-3504-4dbc-93d8-d3441a061c8e
 SUMMARY:v Crespi HS V
 DTSTART;TZID=America/Los_Angeles:20250825T153000
 DTEND;TZID=America/Los_Angeles:20250825T173000
@@ -268,7 +268,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:a79f948e-8980-4b03-9806-971005094f5d
+UID:1146c0be-6c67-4696-b140-6d53a72e2b88
 SUMMARY:JV
 DTSTART;TZID=America/Los_Angeles:20250825T164000
 DTEND;TZID=America/Los_Angeles:20250825T184000
@@ -276,7 +276,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:a1380c32-01ba-4e51-b000-bdeb00ecb95c
+UID:4f2c7977-2399-4891-ac11-f73da629f08b
 SUMMARY:JV
 DTSTART;TZID=America/Los_Angeles:20250826T073000
 DTEND;TZID=America/Los_Angeles:20250826T083000
@@ -284,7 +284,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:5839ed5b-ac18-4fbb-ad12-00229cea408d
+UID:18166440-a89f-430d-8949-af8db1b488f1
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250826T144500
 DTEND;TZID=America/Los_Angeles:20250826T164500
@@ -292,7 +292,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:0ff258b8-f154-445b-bb02-66345280c7e5
+UID:e0914b4d-0c50-49dd-ac4e-2328e0d23841
 SUMMARY:BLOCK 2-4-6
 DTSTART;VALUE=DATE:20250827
 DTEND;VALUE=DATE:20250828
@@ -300,7 +300,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:adeb012d-7812-4db7-9d03-3ff2a038f6c7
+UID:dc9a54bb-b199-4a25-b05b-370b52013ceb
 SUMMARY:v Royal HS V
 DTSTART;TZID=America/Los_Angeles:20250827T153000
 DTEND;TZID=America/Los_Angeles:20250827T173000
@@ -308,7 +308,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:fa270d66-30c2-4d67-ae89-ed956991fb61
+UID:1bb89421-c462-43e9-a3b0-3c3e7813e730
 SUMMARY:JV
 DTSTART;TZID=America/Los_Angeles:20250827T164000
 DTEND;TZID=America/Los_Angeles:20250827T184000
@@ -316,7 +316,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:9a9b06ec-c5e1-4578-b333-aac6d9b3d5c7
+UID:671a74c0-8038-4a00-88be-898d46131d2b
 SUMMARY:BLOCK 1-3-5
 DTSTART;VALUE=DATE:20250828
 DTEND;VALUE=DATE:20250829
@@ -324,7 +324,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:5aa88ec2-778d-497f-84a3-424c491cbbbf
+UID:1675c9fe-dc3b-4e5e-9360-94274d97beeb
 SUMMARY:V
 DTSTART;TZID=America/Los_Angeles:20250828T060000
 DTEND;TZID=America/Los_Angeles:20250828T070000
@@ -332,7 +332,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:f26220a9-9eef-412f-95f9-1a6bcfa5a2c9
+UID:aaac3403-f7bd-4ebe-b89a-006689a4eb2a
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250828T151500
 DTEND;TZID=America/Los_Angeles:20250828T171500
@@ -340,7 +340,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:13054024-bd49-40a4-aa1e-2f6cae924899
+UID:764f6ceb-9503-40c3-91c5-550f3c959df8
 SUMMARY:JV MIRA COSTA TOURNEY
 DTSTART;VALUE=DATE:20250829
 DTEND;VALUE=DATE:20250830
@@ -348,7 +348,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:238d325f-488f-40ae-8c0d-337f770b5892
+UID:839bb68b-7ee2-4307-92d7-efe31cca9c3a
 SUMMARY:VAR
 DTSTART;TZID=America/Los_Angeles:20250829T144500
 DTEND;TZID=America/Los_Angeles:20250829T164500
@@ -356,7 +356,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:76f1b78c-a495-4ca4-9b82-b624b70a7564
+UID:81ac9400-e7d6-4d5f-9226-67100942af19
 SUMMARY:JV MIRA COSTA TOURNEY (NO VAR PRACTICE)
 DTSTART;VALUE=DATE:20250830
 DTEND;VALUE=DATE:20250831
@@ -364,7 +364,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:e11264c8-1a1f-48cf-abab-9fbe725507e1
+UID:bb86d39e-5375-4773-b9eb-b2625aa79316
 SUMMARY:OFF - LABOR DAY
 DTSTART;VALUE=DATE:20250901
 DTEND;VALUE=DATE:20250902
@@ -372,7 +372,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:2edd64d1-61dc-4afd-88db-9807bddc5e9a
+UID:5b7b230c-e183-4f02-844d-2b8b998d2352
 SUMMARY:As 6-7 M
 DTSTART;VALUE=DATE:20250902
 DTEND;VALUE=DATE:20250903
@@ -380,7 +380,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:be501e03-edb0-4422-a6b1-3ef5d80ad494
+UID:c5bb4cb1-a838-402e-ba51-0fb4b839f3aa
 SUMMARY:v Grenda Hills HS V
 DTSTART;TZID=America/Los_Angeles:20250902T153000
 DTEND;TZID=America/Los_Angeles:20250902T173000
@@ -388,7 +388,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:3a5f8675-f1e3-4728-9942-92a0f877faf2
+UID:3e0f3055-cbc1-4a1e-ad93-61afa204c585
 SUMMARY:JV
 DTSTART;TZID=America/Los_Angeles:20250902T164000
 DTEND;TZID=America/Los_Angeles:20250902T184000
@@ -396,7 +396,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:6b7d64bd-cc54-4cad-9b16-06994eb4ab92
+UID:2e74fec0-59eb-45e4-aaee-5574bdad4fb7
 SUMMARY:BLOCK 2-4-6
 DTSTART;VALUE=DATE:20250903
 DTEND;VALUE=DATE:20250904
@@ -404,7 +404,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:35c9bbfc-7030-4be3-836f-43ce32afe873
+UID:4473655c-adbb-4315-9085-51231bfb66b4
 SUMMARY:Bs
 DTSTART;TZID=America/Los_Angeles:20250903T073000
 DTEND;TZID=America/Los_Angeles:20250903T083000
@@ -412,7 +412,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:101efa76-863e-4cb6-90b2-fad0d95b5a3e
+UID:ae1174d4-1504-4f8d-bb34-a6bd0617a3f9
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250903T140000
 DTEND;TZID=America/Los_Angeles:20250903T160000
@@ -420,7 +420,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:51fe7dc3-f63b-42c6-a395-26e1138f42ca
+UID:5d7f5585-629c-4c3c-bda3-982c717de6df
 SUMMARY:BLOCK 1-3-5
 DTSTART;VALUE=DATE:20250904
 DTEND;VALUE=DATE:20250905
@@ -428,7 +428,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:d7a9b46c-763a-4b9a-bf60-fe229c5ef23b
+UID:046f5dcb-926c-41a2-bc8d-1f4e70eefca0
 SUMMARY:v Brentwood HS V
 DTSTART;TZID=America/Los_Angeles:20250904T153000
 DTEND;TZID=America/Los_Angeles:20250904T173000
@@ -436,7 +436,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:639f149b-a7ee-437d-b4a9-356b484e374b
+UID:e059b797-3c1d-4dff-9cd7-0fdbce7c9b34
 SUMMARY:JV
 DTSTART;TZID=America/Los_Angeles:20250904T164000
 DTEND;TZID=America/Los_Angeles:20250904T184000
@@ -444,7 +444,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:d29df68a-d8c8-4f1c-9743-076e4239fbc4
+UID:0ce81d79-c196-447d-a924-da433f407458
 SUMMARY:VAR WIESZ TOURNEY/JV 3rd ANNUAL WARRIOR TOURNEY
 DTSTART;VALUE=DATE:20250905
 DTEND;VALUE=DATE:20250906
@@ -452,7 +452,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:750bc5ce-2350-4ecf-9811-54640ee02542
+UID:a2537ff7-a694-4884-8cb8-80cb4e4f242c
 SUMMARY:VAR WIESZ TOURNEY/JV 3rd ANNUAL WARRIOR TOURNEY
 DTSTART;VALUE=DATE:20250906
 DTEND;VALUE=DATE:20250907
@@ -460,7 +460,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:15eda8d7-f85c-437e-a737-dc1cf4e76db1
+UID:7b02edc1-3a40-4cbe-94cd-c31e342d7eb8
 SUMMARY:@ Schurr HS V
 DTSTART;TZID=America/Los_Angeles:20250908T153000
 DTEND;TZID=America/Los_Angeles:20250908T173000
@@ -468,7 +468,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:4c187327-ef5c-458f-9bee-009e8f604366
+UID:665549a7-1d64-4fb3-be3b-2c37ce602f94
 SUMMARY:JV
 DTSTART;TZID=America/Los_Angeles:20250908T164000
 DTEND;TZID=America/Los_Angeles:20250908T184000
@@ -476,7 +476,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:ad700246-5c62-49e0-8bdd-5bc6b4963006
+UID:cde692ba-042f-4798-b157-c5054e427f6b
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250909T143000
 DTEND;TZID=America/Los_Angeles:20250909T163000
@@ -484,7 +484,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:e8dc6cf3-21be-41d1-8e0f-0a2b5a32d458
+UID:0c59add8-2149-4a24-a84a-5de51a84a4af
 SUMMARY:BLOCK 2-4-6
 DTSTART;VALUE=DATE:20250910
 DTEND;VALUE=DATE:20250911
@@ -492,7 +492,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:80f4e314-27ee-49e3-823b-530dac630bec
+UID:f8244715-e104-4607-b1d3-4a7b5aadd42b
 SUMMARY:@ Ventura HS V
 DTSTART;TZID=America/Los_Angeles:20250910T153000
 DTEND;TZID=America/Los_Angeles:20250910T173000
@@ -500,7 +500,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:4f4ee80d-1362-4dbd-869a-e68180196c11
+UID:424296c9-2823-42c5-b864-504ccead7076
 SUMMARY:JV
 DTSTART;TZID=America/Los_Angeles:20250910T164000
 DTEND;TZID=America/Los_Angeles:20250910T184000
@@ -508,7 +508,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:9f5d72d4-092c-4ad4-ae5b-c8ef35d0fc3f
+UID:b178f2d2-f7f7-4b32-8b14-516b727113a4
 SUMMARY:BLOCK 1-3-5
 DTSTART;VALUE=DATE:20250911
 DTEND;VALUE=DATE:20250912
@@ -516,7 +516,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:147e0514-8eff-42fc-a1bf-6193ca3efc25
+UID:357bb037-a7a0-440e-8745-e01413829ae9
 SUMMARY:JV OFF
 DTSTART;VALUE=DATE:20250911
 DTEND;VALUE=DATE:20250912
@@ -524,7 +524,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:9411539b-df44-4d3e-af9f-f77758e5f298
+UID:b01455ca-dd42-4794-a585-9a799c664ea3
 SUMMARY:VARSITY ZOOM MEETING
 DTSTART;TZID=America/Los_Angeles:20250911T200000
 DTEND;TZID=America/Los_Angeles:20250911T210000
@@ -532,7 +532,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:b282fe78-05c5-4630-8f0c-86e4c3988f1b
+UID:331f5caa-9c74-40d4-be56-b766b9705d01
 SUMMARY:PEP RALLY
 DTSTART;VALUE=DATE:20250912
 DTEND;VALUE=DATE:20250913
@@ -540,7 +540,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:4ce10915-f762-48f6-925a-b3e4d1b6e845
+UID:355bb195-9287-4408-af49-41c7e3965cdf
 SUMMARY:V
 DTSTART;TZID=America/Los_Angeles:20250912T060000
 DTEND;TZID=America/Los_Angeles:20250912T070000
@@ -548,7 +548,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:3c73d083-a490-4040-8ae4-94139f140ed4
+UID:cc6c47fe-e43a-4584-b71d-20e71c0688d4
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250912T143000
 DTEND;TZID=America/Los_Angeles:20250912T163000
@@ -556,7 +556,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:ec61353a-e4c7-4c9f-80f0-c1c41df9abdd
+UID:33fd3d96-f21d-40bc-8b60-92e78d83e2a3
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250913T080000
 DTEND;TZID=America/Los_Angeles:20250913T100000
@@ -564,7 +564,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:3e6b5986-a9c6-4e79-872b-e81f0dcfadce
+UID:0bdf17e4-a34a-4576-b62f-1e69b416c931
 SUMMARY:JV
 DTSTART;TZID=America/Los_Angeles:20250915T060000
 DTEND;TZID=America/Los_Angeles:20250915T070000
@@ -572,7 +572,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:c9ccdb80-318d-4443-8359-6a6657623dc6
+UID:0346f2f4-a887-4c6a-a293-c3338c67af43
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250915T143000
 DTEND;TZID=America/Los_Angeles:20250915T163000
@@ -580,7 +580,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:04ab11f7-fe29-465a-8f21-8c2b052bd7b8
+UID:1748f019-0ffc-43ea-a15c-937eb6639c37
 SUMMARY:V
 DTSTART;TZID=America/Los_Angeles:20250916T060000
 DTEND;TZID=America/Los_Angeles:20250916T070000
@@ -588,7 +588,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:fc0aab5b-f7e2-4a49-8c42-de7aebd1dc73
+UID:b8b08495-bc6e-4a80-96f9-ab3df31eac92
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250916T143000
 DTEND;TZID=America/Los_Angeles:20250916T163000
@@ -596,7 +596,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:d4b4ec77-dcbd-43a3-a2be-3e96e2201b8c
+UID:7e3bb613-2455-45fd-857e-54a8129dfdad
 SUMMARY:BLOCK 2-4-6
 DTSTART;VALUE=DATE:20250917
 DTEND;VALUE=DATE:20250918
@@ -604,7 +604,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:96d34762-026e-41c0-8c1c-ba8a03cb0fed
+UID:86f8a1ff-608a-4457-b6d9-f5a480ebcb80
 SUMMARY:v Cleveland HS V
 DTSTART;TZID=America/Los_Angeles:20250917T153000
 DTEND;TZID=America/Los_Angeles:20250917T173000
@@ -612,7 +612,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:35ec45b3-4ea2-4f18-b455-e256bbfcf97b
+UID:b59c0d5d-a4c9-477b-a972-f1ce7c0bf1d7
 SUMMARY:JV 4:40 PM CANCELED...REGULAR PRATICE
 DTSTART;TZID=America/Los_Angeles:20250917T140000
 DTEND;TZID=America/Los_Angeles:20250917T160000
@@ -620,7 +620,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:5a60984b-f9e6-4a86-a048-902b715852c4
+UID:c3af9f79-206a-4553-acd4-da78f55d398d
 SUMMARY:BLOCK 1-3-5
 DTSTART;VALUE=DATE:20250918
 DTEND;VALUE=DATE:20250919
@@ -628,7 +628,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:17a78c62-c730-4a34-b336-b8745681967e
+UID:82a13e66-4bcc-4b8f-ae04-3ee502b18999
 SUMMARY:V
 DTSTART;TZID=America/Los_Angeles:20250918T060000
 DTEND;TZID=America/Los_Angeles:20250918T070000
@@ -636,7 +636,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:c5cfd49a-67c5-4a34-89ba-c30e90c056a5
+UID:842a7908-ec76-417d-a44a-a439ccbc9187
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250918T151500
 DTEND;TZID=America/Los_Angeles:20250918T171500
@@ -644,7 +644,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:2376971a-2da7-4b4d-8259-89c89104b7c8
+UID:d0bb23b1-691e-43b3-aa76-142dddf0d0ca
 SUMMARY:v Venice HS V
 DTSTART;TZID=America/Los_Angeles:20250919T153000
 DTEND;TZID=America/Los_Angeles:20250919T173000
@@ -652,7 +652,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:10716d80-339a-4fed-b91e-d578b7f3c9e2
+UID:56b8a3a0-67fe-42ae-93ff-87c4ea980c49
 SUMMARY:JV
 DTSTART;TZID=America/Los_Angeles:20250919T164000
 DTEND;TZID=America/Los_Angeles:20250919T184000
@@ -660,7 +660,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:99c1d59a-9598-4d2f-a3bb-5669a8fbbd96
+UID:910bd9a7-5887-440c-8eab-88687e4a0ebf
 SUMMARY:V
 DTSTART;TZID=America/Los_Angeles:20250920T080000
 DTEND;TZID=America/Los_Angeles:20250920T100000
@@ -668,7 +668,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:d59294c0-0831-4d4b-ba5e-2e329cacb6ba
+UID:447bf34b-e8bb-435f-84d9-5186c98bd90c
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250922T143000
 DTEND;TZID=America/Los_Angeles:20250922T163000
@@ -676,7 +676,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:cd4d101c-bd48-4118-8ece-0ebbeda371f6
+UID:2988f1fc-c7db-4c58-b379-90074ed5adef
 SUMMARY:NO SCHOOL
 DTSTART;VALUE=DATE:20250923
 DTEND;VALUE=DATE:20250924
@@ -684,7 +684,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:248523c5-cdae-4eca-8a3a-5ed577e0698c
+UID:382133c4-e738-44db-bbb9-1ca65a3490fb
 SUMMARY:OPTIONAL WORKOUT
 DTSTART;TZID=America/Los_Angeles:20250923T080000
 DTEND;TZID=America/Los_Angeles:20250923T100000
@@ -692,7 +692,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:75ebc8bb-d28d-45b3-99e5-e246ca676f56
+UID:a53ad216-542f-4181-a9de-9660bc2fa627
 SUMMARY:v EL SEGUNDO HS V 3:30/JV 4:30
 DTSTART;VALUE=DATE:20250924
 DTEND;VALUE=DATE:20250925
@@ -700,7 +700,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:d9861432-8cef-4d64-a05f-788bd1fba396
+UID:68631fe6-b0bc-4fc6-974f-0bacc7e79ebb
 SUMMARY:BACK TO SCHOOL NITE
 DTSTART;VALUE=DATE:20250925
 DTEND;VALUE=DATE:20250926
@@ -708,7 +708,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:e5cf665d-0adb-47aa-8036-8d7704245d2b
+UID:ada9aa01-324f-4818-9dd2-5ecdf1ac13ee
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250925T140000
 DTEND;TZID=America/Los_Angeles:20250925T160000
@@ -716,7 +716,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:1ea15d1a-6eb5-4684-978e-d873d43c6d7e
+UID:539935d9-a4b6-479a-b4f5-78ea387066e5
 SUMMARY:VAR SOUTH BAY TOURNEY/JV 2nd ANNUAL WARRIOR TOURNEY
 DTSTART;VALUE=DATE:20250926
 DTEND;VALUE=DATE:20250927
@@ -724,7 +724,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:22d1647a-40ca-498e-9de2-2e7553303997
+UID:212a3470-c096-4902-b73f-db5a7b4d7fbc
 SUMMARY:VAR SOUTH BAY TOURNEY/JV 2nd ANNUAL WARRIOR TOURNEY
 DTSTART;VALUE=DATE:20250927
 DTEND;VALUE=DATE:20250928
@@ -732,7 +732,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:969b662a-8730-4758-95a5-33d40343470b
+UID:bbb7b99a-90be-43cf-9874-5549a3686810
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20250929T143000
 DTEND;TZID=America/Los_Angeles:20250929T163000
@@ -740,7 +740,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:6d60556a-f501-4f8d-a3be-7ce7193f2f2a
+UID:ceee0771-b6b0-462e-96d6-fcd600050b6f
 SUMMARY:BLOCK 1-3-5
 DTSTART;VALUE=DATE:20250930
 DTEND;VALUE=DATE:20251001
@@ -748,7 +748,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:1bbb6628-2855-481d-b290-291ff95d157f
+UID:ca2510b1-f465-448a-8131-18879b41c70b
 SUMMARY:@ PALOS VERDES HS V 3:30/JV 4:30/FS 5:30 PM
 DTSTART;VALUE=DATE:20250930
 DTEND;VALUE=DATE:20251001
@@ -756,7 +756,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:7311378f-ee64-44d5-ab0c-41db442b6778
+UID:62bc6f57-498f-4774-942a-8074d06a4723
 SUMMARY:BLOCK 2-4-6
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
@@ -764,7 +764,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:11ed8a17-2357-4790-b380-af1f99078311
+UID:e4befa01-bea9-438a-b56d-5e7502dd990a
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20251001T140000
 DTEND;TZID=America/Los_Angeles:20251001T160000
@@ -772,7 +772,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:4f3933b9-886d-4d81-8169-cce9f6176d2a
+UID:5cbaef1c-749a-4196-aba8-b0e218db07f5
 SUMMARY:OFF - LOCAL HOLIDAY
 DTSTART;VALUE=DATE:20251002
 DTEND;VALUE=DATE:20251003
@@ -780,7 +780,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:97510476-8419-4edc-af4c-0a22528f7980
+UID:1b7e870c-1daa-41bb-a65a-43f8b3a22f88
 SUMMARY:OPTIONAL Practice
 DTSTART;TZID=America/Los_Angeles:20251002T090000
 DTEND;TZID=America/Los_Angeles:20251002T110000
@@ -788,7 +788,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:ca8050a6-e2bf-425b-ad24-6a796a42161b
+UID:6a10f822-5853-4da7-9af9-838d965c85f2
 SUMMARY:INLAND VALLEY JV TOURNEY VAR
 DTSTART;TZID=America/Los_Angeles:20251003T143000
 DTEND;TZID=America/Los_Angeles:20251003T163000
@@ -796,7 +796,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:11387b94-ec7f-4c5d-ae3a-d18bedb52c1b
+UID:c2e011c3-42d6-472f-915e-4fa6e6617d30
 SUMMARY:INLAND VALLEY JV TOURNEY (VAR
 DTSTART;TZID=America/Los_Angeles:20251004T080000
 DTEND;TZID=America/Los_Angeles:20251004T100000
@@ -804,7 +804,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:28f03da4-83c6-42b7-8c62-1875276e9e37
+UID:e99bd71e-cc1c-4ee2-9cc2-9d4347862dd9
 SUMMARY:Rescheduled Clevealnd Game V
 DTSTART;TZID=America/Los_Angeles:20251006T153000
 DTEND;TZID=America/Los_Angeles:20251006T173000
@@ -812,7 +812,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:39bdf8d0-82cb-4765-9a26-7bcc7e8f5c20
+UID:66d9fb8f-9ba6-47ae-87c6-510b6a244e9a
 SUMMARY:JV
 DTSTART;TZID=America/Los_Angeles:20251006T163000
 DTEND;TZID=America/Los_Angeles:20251006T183000
@@ -820,7 +820,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:1badda70-22e0-425c-86a6-9f483c2bfdbb
+UID:9c0c0928-e0fb-429e-8f50-ee8c61d55430
 SUMMARY:v REDONDO HS V 3:30/JV 4:30/FS 5:30 pM
 DTSTART;VALUE=DATE:20251007
 DTEND;VALUE=DATE:20251008
@@ -828,7 +828,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:a1109f66-8410-4d27-9af2-7c397b05ebad
+UID:52935a0f-39dc-44c4-acab-942bd979b003
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20251008T140000
 DTEND;TZID=America/Los_Angeles:20251008T160000
@@ -836,7 +836,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:25290457-7b0a-42a3-a0a4-f1b9f180e9af
+UID:47559e79-12dc-4035-ac8b-e7ce81a3a099
 SUMMARY:@ MIRA COSTA HS V 3:30/JV 4:30
 DTSTART;VALUE=DATE:20251009
 DTEND;VALUE=DATE:20251010
@@ -844,7 +844,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:8eae41d9-9ea9-4e77-b362-b3de1af1c155
+UID:83502a8c-ab17-4040-a857-7cf5d7b089c5
 SUMMARY:HOMECOMING RALLY
 DTSTART;VALUE=DATE:20251010
 DTEND;VALUE=DATE:20251011
@@ -852,7 +852,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:cd274766-a21b-452b-ae3d-7be84405e901
+UID:af6f6bb0-4c68-435d-9c5f-ed44ae69b3b0
 SUMMARY:VAR OCEAN VIEW TOURNEY
 DTSTART;VALUE=DATE:20251010
 DTEND;VALUE=DATE:20251011
@@ -860,7 +860,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:6876e76b-0610-47b6-b283-e878efb5b5ee
+UID:5896eeb2-5465-45dc-984e-2c64b15d8ad4
 SUMMARY:VAR OCEAN VIEW TOURNEY
 DTSTART;VALUE=DATE:20251011
 DTEND;VALUE=DATE:20251012
@@ -868,7 +868,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:e60c4c43-1676-48c5-8f77-96b28a1637be
+UID:0d0f6c3b-62af-4f48-9c34-4480b915dc07
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20251013T143000
 DTEND;TZID=America/Los_Angeles:20251013T163000
@@ -876,7 +876,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:6c1211dc-34d4-4a52-96c2-3f933f377d35
+UID:587f9996-2d31-4f0d-9290-b59c50c219ae
 SUMMARY:v PENISULA HS V 3:30/JV 4:30
 DTSTART;VALUE=DATE:20251014
 DTEND;VALUE=DATE:20251015
@@ -884,7 +884,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:55d4f1bf-8501-417c-a5f3-ab4a40ae533a
+UID:c1c53e14-c1c2-406a-9dfd-85862dd14881
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20251015T140000
 DTEND;TZID=America/Los_Angeles:20251015T160000
@@ -892,7 +892,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:9bc0e13e-536c-432f-ad7c-e11387762e33
+UID:ee13ebe0-6c6b-48ae-9a56-f03dcb19d2fa
 SUMMARY:BAY LEAGUE CHAMPIONSHIPS
 DTSTART;VALUE=DATE:20251016
 DTEND;VALUE=DATE:20251017
@@ -900,7 +900,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:5c4fc412-1588-447c-9db1-ffdb44ed5a07
+UID:a143f1a8-82c1-4ea5-8c5f-f03629c8d04f
 SUMMARY:4 PM v Peninisula 6 PM v Mira Costa (VAR ONLY
 DTSTART;VALUE=DATE:20251016
 DTEND;VALUE=DATE:20251017
@@ -908,7 +908,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:0c074b4e-0d9f-4211-8145-b3f50d62ccf7
+UID:d554eb17-8798-4ba0-9cf3-11e247b4596f
 SUMMARY:JV OFF)
 DTSTART;VALUE=DATE:20251016
 DTEND;VALUE=DATE:20251017
@@ -916,7 +916,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:66207814-8950-42e7-9f48-fa1de5767e49
+UID:04507f09-d643-4461-ab66-342991933cdb
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20251017T143000
 DTEND;TZID=America/Los_Angeles:20251017T163000
@@ -924,7 +924,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:0139a2c5-249c-477c-ba0a-f7308b0649a3
+UID:b7c10f3a-eda0-4957-912f-5671b9c764fb
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20251018T080000
 DTEND;TZID=America/Los_Angeles:20251018T100000
@@ -932,7 +932,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:5fa6d6e4-aaa3-4720-8655-c7e920c13c0d
+UID:a2b2c6f0-be8f-4cd7-949f-e20595bbfe84
 SUMMARY:ALT BELL SCHEDULE
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
@@ -940,7 +940,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:1946587a-e547-4ad9-908f-fcbe228d6867
+UID:1776e245-1d5b-422d-8f57-f2b475c3e6d5
 SUMMARY:3rd Place Bay League Game v El Segundo @ Mira Costa
 DTSTART;TZID=America/Los_Angeles:20251020T160000
 DTEND;TZID=America/Los_Angeles:20251020T180000
@@ -948,7 +948,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:6904c9dd-6fe3-447c-a58c-eff15edcac3e
+UID:05031914-a248-4171-81c1-7b1abb0ebbb8
 SUMMARY:PSAT DAY
 DTSTART;VALUE=DATE:20251021
 DTEND;VALUE=DATE:20251022
@@ -956,7 +956,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:3e69c03d-83d1-40f8-8656-798fa439c9d6
+UID:a1daaafc-711a-4a80-8a48-58716b33b1d0
 SUMMARY:@ Thousand Oaks HS V
 DTSTART;TZID=America/Los_Angeles:20251021T160000
 DTEND;TZID=America/Los_Angeles:20251021T180000
@@ -964,7 +964,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:a971099b-840a-4231-979a-7d5808577afb
+UID:0267147f-afed-4a66-970d-56a027761ad7
 SUMMARY:JV
 DTSTART;TZID=America/Los_Angeles:20251021T170000
 DTEND;TZID=America/Los_Angeles:20251021T190000
@@ -972,7 +972,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:575720c2-5de8-4580-854c-ff51274a0504
+UID:d17cfbbd-41ca-4caa-9bda-ba5397e3572a
 SUMMARY:FLEX 2-4-6
 DTSTART;VALUE=DATE:20251022
 DTEND;VALUE=DATE:20251023
@@ -980,7 +980,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:82468103-5584-43fd-b577-0d9aa6c7ee91
+UID:c42f614d-2011-4e68-905b-edf5afc469c7
 SUMMARY:v Malibu HS V
 DTSTART;TZID=America/Los_Angeles:20251022T153000
 DTEND;TZID=America/Los_Angeles:20251022T173000
@@ -988,7 +988,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:e92b9d5a-5a3f-4382-8b47-4cec7dd0db94
+UID:91434043-a77c-4d43-b6f8-29f169cd06b0
 SUMMARY:JV (SENIOR DAY)
 DTSTART;TZID=America/Los_Angeles:20251022T164000
 DTEND;TZID=America/Los_Angeles:20251022T184000
@@ -996,7 +996,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:7fcaa092-b5db-4d4f-87eb-51bf9cc10024
+UID:eae4a375-c61a-4cd0-96ec-a31a312ff934
 SUMMARY:FLEX 1-3-5
 DTSTART;VALUE=DATE:20251023
 DTEND;VALUE=DATE:20251024
@@ -1004,7 +1004,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:dfe5e8d9-6d56-4666-adca-ce9e0251c525
+UID:0a72a77a-f928-4e8f-9e0b-d390b007de98
 SUMMARY:CIF TEAM TEAM PICS
 DTSTART;TZID=America/Los_Angeles:20251023T151500
 DTEND;TZID=America/Los_Angeles:20251023T171500
@@ -1012,7 +1012,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:d10ab645-e7de-4f12-9e4c-d2886a54eec1
+UID:a559b354-2394-479d-9910-6954f9d2beae
 SUMMARY:CIF TEAM
 DTSTART;TZID=America/Los_Angeles:20251024T143000
 DTEND;TZID=America/Los_Angeles:20251024T163000
@@ -1020,7 +1020,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:2d6f33f5-dcf1-4621-9505-4b0eb4f59ce3
+UID:855a5eb1-2ad4-45c5-91ee-8392a5912f62
 SUMMARY:CIF TEAM
 DTSTART;TZID=America/Los_Angeles:20251025T080000
 DTEND;TZID=America/Los_Angeles:20251025T100000
@@ -1028,7 +1028,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:02a42a8b-4e1b-433c-89b8-7c4c28e3ab41
+UID:97835450-5fe8-49be-8520-543fd24603e5
 SUMMARY:CIF TEAM
 DTSTART;TZID=America/Los_Angeles:20251027T143000
 DTEND;TZID=America/Los_Angeles:20251027T163000
@@ -1036,7 +1036,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:d1aa6095-4349-45b6-a255-cbb11f806217
+UID:3a2123fd-2108-4ddc-8a3c-c5b8d8170518
 SUMMARY:CIF TEAM
 DTSTART;TZID=America/Los_Angeles:20251028T143000
 DTEND;TZID=America/Los_Angeles:20251028T163000
@@ -1044,7 +1044,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:1add95c5-d21b-41fe-99ab-25b71ff03a83
+UID:dc92154f-90fa-4637-8763-4f14976eccd5
 SUMMARY:CIF TEAM
 DTSTART;TZID=America/Los_Angeles:20251029T140000
 DTEND;TZID=America/Los_Angeles:20251029T160000
@@ -1052,7 +1052,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:38880b9c-1cd7-4546-93f0-d90bf2be99a5
+UID:87f06153-cb4d-48f0-8cf8-054808aab6d2
 SUMMARY:v Ettiwanda CIF R1
 DTSTART;TZID=America/Los_Angeles:20251030T153000
 DTEND;TZID=America/Los_Angeles:20251030T173000
@@ -1060,7 +1060,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:ebbb5cd4-91a5-4426-b604-8b6674a8ee21
+UID:875bdde0-31bf-404b-ad93-c90aea7f35d7
 SUMMARY:6th Period Study Hall
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
@@ -1068,7 +1068,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:072a2a2f-767e-413e-999d-2686aebcc97f
+UID:80410b8e-fe62-4c0b-ae92-8007d209f0c9
 SUMMARY:6th Period Study Hall
 DTSTART;VALUE=DATE:20251103
 DTEND;VALUE=DATE:20251104
@@ -1076,7 +1076,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:6b55d7f2-5f71-4ba6-80e9-fb00608af826
+UID:01bce3c1-3ba7-4abd-9ba8-0f6c79a3b271
 SUMMARY:6th Period Study Hall
 DTSTART;VALUE=DATE:20251104
 DTEND;VALUE=DATE:20251105
@@ -1084,7 +1084,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:9ef2ec37-2819-4ec7-a5a1-e3ab88dfef8a
+UID:a49336e7-f0fc-4bfb-a7cc-289477089ee5
 SUMMARY:6th Period Study Hall
 DTSTART;VALUE=DATE:20251105
 DTEND;VALUE=DATE:20251106
@@ -1092,7 +1092,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:1e6ed261-5cac-464d-84fd-f5f2dd9af398
+UID:56df881b-b734-48a0-b1dc-24ca249dca37
 SUMMARY:6th Period Study Hall
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251108
@@ -1100,7 +1100,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:3f8c39c3-19a5-4b8a-a76f-c6d41ee6ab28
+UID:fb5a2b90-8bed-4379-9251-b6c13ad1dde7
 SUMMARY:6th Period SWIM
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251111
@@ -1108,7 +1108,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:1fff92b7-5438-4f03-8741-ea454c6b1d8d
+UID:41bbd8bb-c4c4-40a8-b3fd-0dc87c5f93f6
 SUMMARY:OFF - VETERANS DAY
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
@@ -1116,7 +1116,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:eaa6c25a-8b09-45ed-a6c6-7b433ea47f62
+UID:e05025bc-2bef-46c3-9649-a8c08dac2504
 SUMMARY:6th Period SWIM
 DTSTART;VALUE=DATE:20251112
 DTEND;VALUE=DATE:20251113
@@ -1124,7 +1124,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:5b290800-a213-44bb-ae09-5428e884fb34
+UID:2f1e9e19-e412-4c35-a82e-2531aab73e55
 SUMMARY:6th Period SWIM
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
@@ -1132,7 +1132,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:0cf0217f-1369-40f5-961f-9181ad1e6dec
+UID:0c5cfcc3-8381-4222-9a86-8497c2732f46
 SUMMARY:6th Period SWIM
 DTSTART;VALUE=DATE:20251117
 DTEND;VALUE=DATE:20251118
@@ -1140,7 +1140,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:9dfbbe1a-34d6-46f5-b634-6e8bb216027f
+UID:e31ec018-aebd-4962-a97e-099461fb2a67
 SUMMARY:GIRLS AWAY GAME - STUDY HALL
 DTSTART;VALUE=DATE:20251118
 DTEND;VALUE=DATE:20251119
@@ -1148,7 +1148,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:020b1076-89d3-4b86-b358-34c115094fdc
+UID:1d9632a7-ae7b-45a9-ba4f-052e431649c1
 SUMMARY:6th Period SWIM
 DTSTART;VALUE=DATE:20251119
 DTEND;VALUE=DATE:20251120
@@ -1156,7 +1156,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:ca4f9f76-45c6-464e-b72c-adae4ebadbc3
+UID:62cf6989-c854-4522-939a-e271b8425fad
 SUMMARY:GIRLS HOME GAME - STUDY HALL
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
@@ -1164,7 +1164,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:ba4611e5-aa63-486c-83dd-81391a1884ce
+UID:2225996d-9b3c-4f65-8d89-ee205e9cf5f6
 SUMMARY:6th Period SWIM
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251125
@@ -1172,7 +1172,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:7949ff9f-a943-4929-8642-abf9c7e1e8d8
+UID:20b5e758-497d-4300-b312-bd75b3301df0
 SUMMARY:6th Period SWIM
 DTSTART;VALUE=DATE:20251125
 DTEND;VALUE=DATE:20251126
@@ -1180,7 +1180,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:a39a2de3-a093-4c28-8392-d76ff2043303
+UID:5ac8fd57-fcbc-417e-9dc6-bf351daa964f
 SUMMARY:OFF - THANKSGIVING
 DTSTART;VALUE=DATE:20251126
 DTEND;VALUE=DATE:20251127
@@ -1188,7 +1188,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:f56f31aa-afc5-4781-9908-1d94b74d78aa
+UID:05a121e7-daf8-4d5c-b6cc-b314abcdf8c0
 SUMMARY:OFF - THANKSGIVING
 DTSTART;VALUE=DATE:20251127
 DTEND;VALUE=DATE:20251128
@@ -1196,7 +1196,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:79d3e56c-9a8e-4ec0-bfb6-d8aa99019d23
+UID:9b1c9da5-dba9-4465-90ae-2942d862c2b2
 SUMMARY:ALMUNI GAME
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
@@ -1204,7 +1204,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:c670a691-aac1-4602-98b3-6a9cf32c5cf7
+UID:6eb328e7-9609-47a7-be61-62987cebd662
 SUMMARY:OFF -THANKSGIVING
 DTSTART;VALUE=DATE:20251129
 DTEND;VALUE=DATE:20251130
@@ -1212,7 +1212,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:b2d5abf2-a228-4c43-b7e3-934a02100061
+UID:d5e9a92a-e6dd-4fa1-bb02-0e219c1561e7
 SUMMARY:6th Period SWIM
 DTSTART;VALUE=DATE:20251201
 DTEND;VALUE=DATE:20251202
@@ -1220,7 +1220,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:e4508a99-8348-4369-8fa9-6b47df696c33
+UID:8d71eae4-a271-4d65-b381-f1c39baa9469
 SUMMARY:GIRLS HOME GAME - STUDY HALL
 DTSTART;VALUE=DATE:20251202
 DTEND;VALUE=DATE:20251203
@@ -1228,7 +1228,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:a4f93e44-97cc-43a2-b9fd-4292d764e0ec
+UID:66576a41-9ca5-4dc0-a6ae-bb678329c15f
 SUMMARY:GIRLS AWAY GAME - STUDY HALL
 DTSTART;VALUE=DATE:20251203
 DTEND;VALUE=DATE:20251204
@@ -1236,7 +1236,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:0dc38415-7c83-46b4-b2bc-d3f58e0c8798
+UID:3fb089d8-d372-4c3d-9435-cccb19dee25a
 SUMMARY:GIRLS AWAY GAME - STUDY HALL
 DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251206
@@ -1244,7 +1244,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:e6e38976-4e45-4a07-b601-7a4c35c3c434
+UID:bd1150b3-a1ac-49d1-b91f-ffb70183f178
 SUMMARY:GIRLS AWAY GAME - STUDY HALL
 DTSTART;VALUE=DATE:20251208
 DTEND;VALUE=DATE:20251209
@@ -1252,7 +1252,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:fc1de95f-12ff-45e5-b1a8-243e9f254070
+UID:def118b5-eaed-421f-92ff-401eee616cf4
 SUMMARY:GIRLS HOME GAME - STUDY HALL
 DTSTART;VALUE=DATE:20251209
 DTEND;VALUE=DATE:20251210
@@ -1260,7 +1260,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:866dd343-6d48-45e4-8bac-ccf0304e203a
+UID:4bbc53e7-bc46-461e-8c4c-60e570f9836b
 SUMMARY:BANQUET
 DTSTART;VALUE=DATE:20251210
 DTEND;VALUE=DATE:20251211
@@ -1268,7 +1268,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:8bade020-a059-491b-be6f-a932e6712797
+UID:ed50916f-7dd9-414a-afe8-3d6f2e5dc8ce
 SUMMARY:GIRLS AWAY GAME - STUDY HALL
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251213
@@ -1276,7 +1276,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:aea9c661-dc3d-46f4-810f-fb06875b1ba5
+UID:d14f06f8-3be9-44ad-89fa-8f215f92d4a9
 SUMMARY:FINALS WEEK - 6th PERIOD STUDY HALL
 DTSTART;VALUE=DATE:20251215
 DTEND;VALUE=DATE:20251216
@@ -1284,7 +1284,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:4079b28a-36de-4cde-93f8-36a28422cd5f
+UID:31670a6a-c2f6-466c-bbf5-bdb78e4a11b0
 SUMMARY:FINALS WEEK - NO PRACTICE
 DTSTART;VALUE=DATE:20251216
 DTEND;VALUE=DATE:20251217
@@ -1292,7 +1292,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:92668808-4bed-4fb2-bfd5-628d250b578a
+UID:17aff822-e68f-4397-aa6f-e92ed3bf3d4c
 SUMMARY:FINALS WEEK - NO PRACTICE
 DTSTART;VALUE=DATE:20251217
 DTEND;VALUE=DATE:20251218
@@ -1300,7 +1300,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:70cd8373-e61a-4de9-aca2-3d178ad7b72e
+UID:9fc37e81-288b-40b7-b97d-467feb00a55f
 SUMMARY:PERIOD 6 FINAL - SCRIMMAGE
 DTSTART;VALUE=DATE:20251218
 DTEND;VALUE=DATE:20251219
@@ -1308,7 +1308,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:ef8d5e5d-14cd-4315-a16f-4ab028a6b0e8
+UID:77cf733c-854a-4f2d-bab3-5bf4148b7c50
 SUMMARY:LAST DAY OF SCHOOL - PERIOD 6 SCRIMMAGE
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
@@ -1316,7 +1316,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:9d8cefe8-56a5-4178-b735-c40bb1e0375e
+UID:67804d97-6929-436d-b352-80f630b946ab
 SUMMARY:OFF - WINTER BREAK
 DTSTART;VALUE=DATE:20251222
 DTEND;VALUE=DATE:20251223
@@ -1324,7 +1324,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:94905004-a657-45c8-a1eb-9b21ea0af87e
+UID:e21af1b0-26f5-436a-93ac-16328b16075b
 SUMMARY:OFF - WINTER BREAK
 DTSTART;VALUE=DATE:20251223
 DTEND;VALUE=DATE:20251224
@@ -1332,7 +1332,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:de03b3b8-c4c2-4f1b-bc1b-74ddb5b112b4
+UID:f060d811-04fe-42dd-a7ff-c747dcbac79e
 SUMMARY:OFF - WINTER BREAK
 DTSTART;VALUE=DATE:20251224
 DTEND;VALUE=DATE:20251225
@@ -1340,7 +1340,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:aff2c760-d570-4bf1-9761-274a98655183
+UID:0fe072e8-42a6-47f7-9941-38daa99e7022
 SUMMARY:OFF - WINTER BREAK
 DTSTART;VALUE=DATE:20251225
 DTEND;VALUE=DATE:20251226
@@ -1348,7 +1348,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:5e3c0930-4927-4a11-a086-758268ee1a88
+UID:17cc340b-5940-40ee-ad08-ae26a09a03d8
 SUMMARY:OFF - WINTER BREAK
 DTSTART;VALUE=DATE:20251226
 DTEND;VALUE=DATE:20251227
@@ -1356,7 +1356,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:74a4f9a3-7828-46c8-a9c6-8ba64970f3b2
+UID:b64012ef-44dc-4711-a3fd-6b818aecc42c
 SUMMARY:OFF - WINTER BREAK
 DTSTART;VALUE=DATE:20251227
 DTEND;VALUE=DATE:20251228
@@ -1364,7 +1364,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:e8691444-de33-450f-8c33-38614ba6f124
+UID:0680bc36-f098-49f1-9081-73921ef0185c
 SUMMARY:OFF - WINTER BREAK
 DTSTART;VALUE=DATE:20251228
 DTEND;VALUE=DATE:20251229
@@ -1372,7 +1372,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=1574794031#gid=1574794031
 END:VEVENT
 BEGIN:VEVENT
-UID:ef8da8b8-4155-4b91-84a6-cf04b56fd7f1
+UID:e0094244-9401-456d-b120-8a5f5894c246
 SUMMARY:FIRST POSSIBLE GAME
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
@@ -1380,7 +1380,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:ca7e9a11-2e25-4597-808a-12bccd300ce7
+UID:04007617-da33-48d3-9f71-2b99742f634b
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260806T143000
 DTEND;TZID=America/Los_Angeles:20260806T163000
@@ -1388,7 +1388,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:26a68337-4e6c-4e2e-81bf-c12d0c04c9cd
+UID:9bba6519-0aa8-4333-aab9-8e829a0907f4
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260807T143000
 DTEND;TZID=America/Los_Angeles:20260807T163000
@@ -1396,7 +1396,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:38ecd79e-fa20-43cf-82eb-bfdbb61aaa02
+UID:8520a81e-d366-486f-b32c-3951e5db5283
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260808T080000
 DTEND;TZID=America/Los_Angeles:20260808T100000
@@ -1404,7 +1404,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:60b2f445-3ee7-4199-8a4a-ddbd465718f0
+UID:1656f841-83b9-445f-9249-dddcba8772ec
 SUMMARY:A'
 DTSTART;TZID=America/Los_Angeles:20260810T080000
 DTEND;TZID=America/Los_Angeles:20260810T090000
@@ -1412,7 +1412,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:5973120e-b9d7-44d4-aede-ffdcd206ea08
+UID:7533d285-c0d9-4570-8303-7f97b33e8671
 SUMMARY:*SENIOR BANNERS 11 AM*
 DTSTART;TZID=America/Los_Angeles:20260810T143000
 DTEND;TZID=America/Los_Angeles:20260810T163000
@@ -1420,7 +1420,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:04f63e55-9ea2-4922-a198-62513bb9f10c
+UID:f51bedbc-baae-438c-bf08-a785a4624a8c
 SUMMARY:B'
 DTSTART;TZID=America/Los_Angeles:20260811T080000
 DTEND;TZID=America/Los_Angeles:20260811T090000
@@ -1428,7 +1428,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:e9cbdce5-7271-42a8-a5c6-16d63083c7da
+UID:c0abb234-6a2f-4aed-a307-07c739e2c627
 SUMMARY:AND ALL
 DTSTART;TZID=America/Los_Angeles:20260811T143000
 DTEND;TZID=America/Los_Angeles:20260811T163000
@@ -1436,7 +1436,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:c6d601b4-112f-442d-bd28-c203b61188ab
+UID:42ee9dcd-5718-4eaf-8e3a-8658df4d0f63
 SUMMARY:A' AM AND ALL
 DTSTART;TZID=America/Los_Angeles:20260812T143000
 DTEND;TZID=America/Los_Angeles:20260812T163000
@@ -1444,7 +1444,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:a2b7dd30-6dce-4f04-925f-c21e7041abe5
+UID:a7da3b93-2322-4603-99db-03b8ef69b9a9
 SUMMARY:ALL TEAMS
 DTSTART;TZID=America/Los_Angeles:20260813T080000
 DTEND;TZID=America/Los_Angeles:20260813T100000
@@ -1452,7 +1452,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:bceb9dbf-258e-427f-9b6b-fd0ed0e028be
+UID:03faf6f3-9ede-45c8-9cd7-15afad8bcd90
 SUMMARY:ALL TEAMS
 DTSTART;TZID=America/Los_Angeles:20260814T143000
 DTEND;TZID=America/Los_Angeles:20260814T163000
@@ -1460,7 +1460,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:f3c47980-3411-4ef6-a339-ef5e8c3bd527
+UID:22a9f51f-be12-4381-8af9-378613c6e701
 SUMMARY:COMBINE + BBQ?
 DTSTART;TZID=America/Los_Angeles:20260815T080000
 DTEND;TZID=America/Los_Angeles:20260815T100000
@@ -1468,7 +1468,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:9ce3540a-b29d-4dee-ae0f-b7b04b46b727
+UID:fbc56176-7a65-4892-b9f4-9b63ca99ab61
 SUMMARY:SMMUSD MEETING
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
@@ -1476,7 +1476,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:4bae62f3-8061-480d-854c-39d0ffc024c6
+UID:049ee044-ed2f-4add-b1cb-91358b2c073f
 SUMMARY:A GROUP
 DTSTART;TZID=America/Los_Angeles:20260817T070000
 DTEND;TZID=America/Los_Angeles:20260817T080000
@@ -1484,7 +1484,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:ab9213a4-0a5d-4e04-a6eb-2d09d2ee46ab
+UID:e86169ea-0bdf-4ac2-8d3f-6df865c23f30
 SUMMARY:Scrimmage (ALL) v Malibu
 DTSTART;TZID=America/Los_Angeles:20260817T140000
 DTEND;TZID=America/Los_Angeles:20260817T160000
@@ -1493,7 +1493,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:e0a7a35e-8454-46f7-9af1-0063bff4a3c8
+UID:c4b08c47-127d-42a6-a43b-e3a2b863bce3
 SUMMARY:B GROUP
 DTSTART;TZID=America/Los_Angeles:20260818T070000
 DTEND;TZID=America/Los_Angeles:20260818T080000
@@ -1501,7 +1501,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:1393cb1c-0f4c-4a42-af5f-80809737f251
+UID:187e2444-e106-4a60-9514-27c206e2dbed
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20260818T144500
 DTEND;TZID=America/Los_Angeles:20260818T164500
@@ -1509,7 +1509,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:8b369c71-286b-4111-992c-9afcb60d9116
+UID:f6a62ee2-e0ec-44d6-b3b2-f69be9fccef3
 SUMMARY:A GROUP
 DTSTART;TZID=America/Los_Angeles:20260819T070000
 DTEND;TZID=America/Los_Angeles:20260819T080000
@@ -1517,7 +1517,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:5320a46f-7e6d-4f64-ba1d-f59ccca27b78
+UID:8d6f5b7c-dbf7-4f7b-b9d6-2cc45162008f
 SUMMARY:FIRST DAY OF SCHOOL
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
@@ -1525,7 +1525,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:523dd5d9-27bf-45ad-aa84-e090006589fb
+UID:e25623e5-fcaf-4ff7-9e48-8b48a830d355
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260820T144500
 DTEND;TZID=America/Los_Angeles:20260820T164500
@@ -1533,7 +1533,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:73b8862d-2cf5-44cb-99e9-65066db1e0c8
+UID:1b276030-eb27-4a10-aa05-02ebe03e44d9
 SUMMARY:TO Tourney (V)
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
@@ -1542,7 +1542,7 @@ DESCRIPTION:Bus departs: 1:00 PM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:a7dad14b-9686-4848-80fe-efacd5eb1560
+UID:1b0ea95b-d939-4a1e-a9c4-959fd362a093
 SUMMARY:JV Practice
 DTSTART;TZID=America/Los_Angeles:20260821T144500
 DTEND;TZID=America/Los_Angeles:20260821T164500
@@ -1550,7 +1550,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:5181f174-59b5-40b6-ac1b-3f752f0b6f57
+UID:6169ea2f-b200-4a0e-aa1e-da26670fbdad
 SUMMARY:PP @ GW
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
@@ -1558,7 +1558,7 @@ DESCRIPTION:Sagehens schedule: https://sagehens.com/sports/mens-water-polo\nSche
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:76744415-4bcd-4e12-8ae3-1c88d1f0204e
+UID:8c80a30f-209b-474c-a506-67dcf208ecf0
 SUMMARY:TO Tourney (V)
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
@@ -1567,7 +1567,7 @@ DESCRIPTION:Bus departs: 6:00 AM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:866e30f0-4bb0-446d-8997-11c82a8616e6
+UID:67c9ed98-f35d-4cf6-b6cf-ace67563fd42
 SUMMARY:JV Practice
 DTSTART;TZID=America/Los_Angeles:20260822T080000
 DTEND;TZID=America/Los_Angeles:20260822T100000
@@ -1575,7 +1575,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:49bb2ad0-2128-4e29-a49c-2baad1c0ed5b
+UID:92b56655-a7a0-4062-9a7c-1ae426176f34
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260824T144500
 DTEND;TZID=America/Los_Angeles:20260824T164500
@@ -1583,7 +1583,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:3d15f062-d8f8-436e-9406-d0bf7c53daed
+UID:7f8b3c2e-f107-4c28-b649-7b93379c8df3
 SUMMARY:VAR
 DTSTART;TZID=America/Los_Angeles:20260825T060000
 DTEND;TZID=America/Los_Angeles:20260825T070000
@@ -1591,7 +1591,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:d67d68f5-a84e-48c9-956b-9fc937fce236
+UID:31d6eaf9-054d-4eb7-a317-6afecd7a7db4
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20260825T144500
 DTEND;TZID=America/Los_Angeles:20260825T164500
@@ -1599,7 +1599,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:9aa33f1e-b865-46ce-8d1c-f5531357decc
+UID:06ed197d-3187-404f-907b-acaae592944d
 SUMMARY:v Ventura HS
 DTSTART;TZID=America/Los_Angeles:20260826T153000
 DTEND;TZID=America/Los_Angeles:20260826T173000
@@ -1608,7 +1608,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:eebf946b-6b50-4980-9498-a35f8152ce74
+UID:0436c64c-bad7-4049-b967-1a7ad4bad196
 SUMMARY:VAR
 DTSTART;TZID=America/Los_Angeles:20260827T060000
 DTEND;TZID=America/Los_Angeles:20260827T070000
@@ -1616,7 +1616,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:9695dcc3-5a48-4641-bb0c-9c2699277b75
+UID:e6bf52eb-0d85-4bd0-b567-f17dd1c82c9c
 SUMMARY:ALL
 DTSTART;TZID=America/Los_Angeles:20260827T151500
 DTEND;TZID=America/Los_Angeles:20260827T171500
@@ -1624,7 +1624,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:35d938f9-b61d-42e6-b6e0-921742205055
+UID:167fb5ce-5a02-446d-96de-915cc894f621
 SUMMARY:PP @ UCI
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
@@ -1632,7 +1632,7 @@ DESCRIPTION:Sagehens schedule: https://sagehens.com/sports/mens-water-polo\nSche
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:31fd971a-92b7-4f75-8f93-958bfa12fd29
+UID:a874fc07-7cdb-488a-936e-4969bc5c6053
 SUMMARY:VAR
 DTSTART;TZID=America/Los_Angeles:20260828T144500
 DTEND;TZID=America/Los_Angeles:20260828T164500
@@ -1640,7 +1640,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:f1064489-a91f-468f-9f83-57ec9d8c76b4
+UID:fad2af3c-e587-42fe-806b-b9a1c07430a4
 SUMMARY:Mira Costa Tourney (JV)
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
@@ -1649,7 +1649,7 @@ DESCRIPTION:Bus departs: 1:00 PM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:dd923b40-f2c3-4eb4-ae77-44a0c1e39665
+UID:ea0ccfae-ac0c-4fb4-bdf3-1c88d1a8407d
 SUMMARY:VAR
 DTSTART;TZID=America/Los_Angeles:20260829T080000
 DTEND;TZID=America/Los_Angeles:20260829T100000
@@ -1657,7 +1657,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:d62ded1a-25e5-4566-a23d-41a3d383ee8f
+UID:d2f70ba5-738e-44a8-8de5-1769bd733397
 SUMMARY:Mira Costa Tourney (JV)
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
@@ -1666,7 +1666,7 @@ DESCRIPTION:Bus departs: 1:00 PM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:7d6434ca-72eb-4bc9-aaeb-6be6404557a3
+UID:2c60dd0a-088f-454c-90f2-89115b62d28a
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260831T144500
 DTEND;TZID=America/Los_Angeles:20260831T164500
@@ -1674,7 +1674,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:3df1b054-8d29-4c04-a4f2-b346df737ab5
+UID:4fc633b9-a571-440a-b806-ccac7ad14091
 SUMMARY:TEAM PICS
 DTSTART;TZID=America/Los_Angeles:20260901T144500
 DTEND;TZID=America/Los_Angeles:20260901T164500
@@ -1682,7 +1682,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:c499d1f7-b751-4487-acdf-164246851b0a
+UID:a24c81da-4e7f-44eb-a45f-a4d5dcc81eb1
 SUMMARY:@ Brentwood School
 DTSTART;TZID=America/Los_Angeles:20260902T170000
 DTEND;TZID=America/Los_Angeles:20260902T190000
@@ -1691,7 +1691,7 @@ DESCRIPTION:Bus departs: 2:30 PM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:860f8d3a-abdb-4594-8d81-bb53f2d9b5b7
+UID:185f84d0-c379-46f0-8914-758ca07e47fe
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260903T151500
 DTEND;TZID=America/Los_Angeles:20260903T171500
@@ -1699,7 +1699,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:0b23e423-68ee-4d8f-91b4-741d8717c0b5
+UID:6ac490a7-96c5-4c17-a0a9-9905235c6a8b
 SUMMARY:WEISZ TOURNEY (V)
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
@@ -1708,7 +1708,7 @@ DESCRIPTION:Bus departs: 12:30 PM\nSchedule: https://docs.google.com/spreadsheet
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:08e664d0-f571-45a1-9406-8e5e3a3f22f2
+UID:d0223db5-bf9a-4cbd-a9cc-24ec13cadc9f
 SUMMARY:PP @ IVT
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
@@ -1716,7 +1716,7 @@ DESCRIPTION:Sagehens schedule: https://sagehens.com/sports/mens-water-polo\nSche
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:718639b0-5a2a-440f-9ecf-7f89ca14f26f
+UID:3ba34e07-6445-46d7-8806-60ac980fef08
 SUMMARY:WEISZ TOURNEY (V)
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
@@ -1725,7 +1725,7 @@ DESCRIPTION:Bus departs: 6:00 AM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:4f0d8ee4-06c0-4818-a886-04033589ed54
+UID:1905b9a0-f5bd-45de-b2cd-776a5a4a37ec
 SUMMARY:NO SCHOOL - LABOR DAY
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
@@ -1733,7 +1733,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:bdafbae4-9330-4494-aab5-34c827131167
+UID:c5c8952d-f9ba-4fce-83b2-14ddb117f7d6
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260908T144500
 DTEND;TZID=America/Los_Angeles:20260908T164500
@@ -1741,7 +1741,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:2a995b89-73e4-481a-92f8-ff0419a51860
+UID:87994d23-518b-499b-a667-9534e5231903
 SUMMARY:v Thousand Oaks HS
 DTSTART;TZID=America/Los_Angeles:20260909T153000
 DTEND;TZID=America/Los_Angeles:20260909T173000
@@ -1750,7 +1750,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:870582c0-5656-4bbf-9f77-e65175e431b8
+UID:1cec7068-da2e-47c7-8183-9d0588d3c1ea
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260910T151500
 DTEND;TZID=America/Los_Angeles:20260910T171500
@@ -1758,7 +1758,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:16d7096e-2dbc-44a4-8144-6469f3a5b832
+UID:035f58c0-4ce5-46e7-b607-4ca26f5de072
 SUMMARY:PP @ Fullerton
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
@@ -1766,7 +1766,7 @@ DESCRIPTION:Sagehens schedule: https://sagehens.com/sports/mens-water-polo\nSche
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:2fd18e17-7b6b-45a4-9b58-678388c9fe3d
+UID:93185c59-c36e-4005-8d25-b1183a16732f
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260911T144500
 DTEND;TZID=America/Los_Angeles:20260911T164500
@@ -1774,7 +1774,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:a59a5298-95c8-453a-8274-799e02c2e954
+UID:e1511eab-720e-4a2b-aee2-33857a02cbc6
 SUMMARY:Rosh Hashanah
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
@@ -1782,7 +1782,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:3ad2a07b-cf64-4cac-bc43-0d7c590c264a
+UID:868a2657-3e3f-4e55-8f0b-ffa214c1a908
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260912T080000
 DTEND;TZID=America/Los_Angeles:20260912T100000
@@ -1790,7 +1790,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:cea4f004-caef-464d-b114-3036e5515679
+UID:d6c0ddcc-e862-4fe9-bf98-54237b780b94
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260914T144500
 DTEND;TZID=America/Los_Angeles:20260914T164500
@@ -1798,7 +1798,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:18294b73-8fa7-4609-81d1-82f522989e07
+UID:f5ee2bd0-5db2-42df-b809-fd5641455a3e
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260915T144500
 DTEND;TZID=America/Los_Angeles:20260915T164500
@@ -1806,7 +1806,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:5fe29769-d483-478a-b885-bb43358215ee
+UID:203b561e-b454-4a72-87f9-6b249196ed74
 SUMMARY:v Cleveland HS
 DTSTART;TZID=America/Los_Angeles:20260916T153000
 DTEND;TZID=America/Los_Angeles:20260916T173000
@@ -1815,7 +1815,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:0b141a06-aa08-4dd7-821d-1087e56b7ec2
+UID:0a52ae0c-7a14-4b79-8867-24cceeb44f11
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260917T151500
 DTEND;TZID=America/Los_Angeles:20260917T171500
@@ -1823,7 +1823,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:1a35a5c1-9347-4e25-a85c-c164c204ec35
+UID:99f2032b-182d-4f2e-88e0-cafa185e25b4
 SUMMARY:GREENIE RUN
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
@@ -1831,7 +1831,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:79e199aa-6089-4668-9e3c-1b79bc46b045
+UID:d387e1c1-221c-4b1f-85fa-5c7485a100b7
 SUMMARY:v Royal HS
 DTSTART;TZID=America/Los_Angeles:20260918T153000
 DTEND;TZID=America/Los_Angeles:20260918T173000
@@ -1840,7 +1840,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:8f61a807-2123-42f2-a2af-8a6cb7fee2e9
+UID:f41bdcba-1461-4e1e-bf67-f827fbb4ef2b
 SUMMARY:PP v GW
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
@@ -1848,7 +1848,7 @@ DESCRIPTION:Watch: https://go.flocollege.com/teams/pomona-pitzer-colleges?sp=con
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:5b5ee4ae-ac77-4c8d-a1ad-afb95ef1be39
+UID:01ff0ebf-8f77-4942-b6a2-5e7b0b5db939
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260919T080000
 DTEND;TZID=America/Los_Angeles:20260919T100000
@@ -1856,7 +1856,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:0847e65f-4893-4ab2-b292-8659fe471850
+UID:8ce1f5fb-34ad-4a92-8b54-0e336303ce82
 SUMMARY:Yom Kippur
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
@@ -1864,7 +1864,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:17266c84-3f29-484b-866c-bdada8b25767
+UID:60802e9a-8774-4110-acff-7467bc4989e1
 SUMMARY:NO SCHOOL - YOM KIPPUR
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
@@ -1872,7 +1872,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:ac2168c0-c802-400f-93bd-effc78d6a982
+UID:441582ad-27b7-4737-b5af-61f8f8612a10
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260922T144500
 DTEND;TZID=America/Los_Angeles:20260922T164500
@@ -1880,7 +1880,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:7d783786-1e37-4f31-92fa-ccfd4d145a06
+UID:0fcae608-36d0-4d5b-9b8b-81c955ad0d45
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260923T140000
 DTEND;TZID=America/Los_Angeles:20260923T160000
@@ -1888,7 +1888,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:e15a785a-c63b-4073-9493-1ca8106f867f
+UID:2a7aa069-832d-4f9f-9f8e-68feacfd465b
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260924T151500
 DTEND;TZID=America/Los_Angeles:20260924T171500
@@ -1896,7 +1896,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:be3d376d-c93a-4604-876b-d4de70b9b9fc
+UID:9b243de3-9be8-44ac-bd05-05ebff51bef0
 SUMMARY:BACK TO SCHOOL NIGHT
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
@@ -1904,7 +1904,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:0f19470d-c11a-43d2-986d-359241c8c866
+UID:9c56e227-f273-4ff6-87c5-6580bec0145e
 SUMMARY:SOUTH BAY TOURNEY (V)
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
@@ -1913,7 +1913,7 @@ DESCRIPTION:Bus departs: 1:00 PM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:f850cbbd-320d-4546-82bd-fd0207b49ddf
+UID:81eb0916-5b69-4f16-867b-1aa07edfd4ef
 SUMMARY:4th Annual Frosh-Soph Warriors Tournament (JV)
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
@@ -1922,7 +1922,7 @@ DESCRIPTION:Bus departs: 12:30 PM\nSchedule: https://docs.google.com/spreadsheet
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:4c2ae6da-c842-4ef5-9b43-cdccfc655eea
+UID:7e21cf46-cca0-4938-8e91-14e3091bac6c
 SUMMARY:PP v CalLu
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
@@ -1930,7 +1930,7 @@ DESCRIPTION:Watch: https://go.flocollege.com/teams/pomona-pitzer-colleges?sp=con
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:31b1b725-f9c3-41eb-8cc8-1450860cfdd2
+UID:2518788e-6852-496e-b629-975f314c2fa7
 SUMMARY:SOUTH BAY TOURNEY (V)
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
@@ -1939,7 +1939,7 @@ DESCRIPTION:Bus departs: 6:30 AM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:b4d197f5-5c26-40e6-a8f1-22e130d0e8d1
+UID:7b57828b-a4f4-4ebc-a2d3-b2ff46d5ed09
 SUMMARY:4th Annual Frosh-Soph Warriors Tournament (JV)
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
@@ -1948,7 +1948,7 @@ DESCRIPTION:Bus departs: 6:00 AM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:7f65389e-790c-4a00-be8e-dbe238fdcfc9
+UID:e66f1f2d-f343-484e-84b1-a4dc3989c086
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260928T144500
 DTEND;TZID=America/Los_Angeles:20260928T164500
@@ -1956,7 +1956,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:525492bb-b1ff-4094-a54a-2a68b58bd4f2
+UID:ff460775-edc8-4680-8ba9-a7b3a152ee65
 SUMMARY:@ El Segundo HS (Plunge)
 DTSTART;TZID=America/Los_Angeles:20260929T153000
 DTEND;TZID=America/Los_Angeles:20260929T173000
@@ -1965,7 +1965,7 @@ DESCRIPTION:Bus departs: 1:00 PM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:8c42f800-d5cd-4e04-bec0-b2bcc5806633
+UID:2c01aa3f-ba90-4241-b9da-99cccfcf71ca
 SUMMARY:PP @ CMS
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
@@ -1973,7 +1973,7 @@ DESCRIPTION:Watch: https://go.flocollege.com/teams/pomona-pitzer-colleges?sp=con
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:4b16556a-f493-41f3-8a23-8bcbfbe8693a
+UID:1322d8f8-8630-4d24-a540-7300f7be12b2
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260930T140000
 DTEND;TZID=America/Los_Angeles:20260930T160000
@@ -1981,7 +1981,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:a4c176ea-eba5-4303-b67e-48cde55f6d50
+UID:89fb9fb6-1896-4216-a4d1-efa78531da08
 SUMMARY:@ Redondo Union HS
 DTSTART;TZID=America/Los_Angeles:20261001T153000
 DTEND;TZID=America/Los_Angeles:20261001T173000
@@ -1990,7 +1990,7 @@ DESCRIPTION:Bus departs: 1:00 PM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:a16c5d61-33f1-4639-895a-0bd960fdf689
+UID:0eafc144-3a02-41b2-99cd-27ec61aa1ff7
 SUMMARY:PP @ GST
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
@@ -1998,7 +1998,7 @@ DESCRIPTION:Watch: https://go.flocollege.com/teams/pomona-pitzer-colleges?sp=con
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:d4cb4575-8e2d-428b-ad34-4e54189e0f40
+UID:e39cff2f-68dc-47b9-97b7-b5a389b8e3f7
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20261002T144500
 DTEND;TZID=America/Los_Angeles:20261002T164500
@@ -2006,7 +2006,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:ee7910b5-dc74-4024-86de-7a81faaaf738
+UID:85649134-e3e6-4a42-8dfa-9e3a8ec3d55e
 SUMMARY:PP @ GST
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
@@ -2014,7 +2014,7 @@ DESCRIPTION:Watch: https://go.flocollege.com/teams/pomona-pitzer-colleges?sp=con
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:276014d7-94d6-4993-95c3-97b61a1e395f
+UID:2e78d44f-c1e0-4535-b07d-071f9e64b2f9
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20261003T080000
 DTEND;TZID=America/Los_Angeles:20261003T100000
@@ -2022,7 +2022,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:155bdd13-0d2d-489a-92d2-370968967355
+UID:a1a7664c-f04f-484e-86b6-3f606d5b5ced
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20261005T144500
 DTEND;TZID=America/Los_Angeles:20261005T164500
@@ -2030,7 +2030,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:ef325b39-b53f-44e3-9e93-f4f52c4d15a3
+UID:301be085-b973-48df-920b-b96e2d5a6e5b
 SUMMARY:@ Palos Verdes HS
 DTSTART;TZID=America/Los_Angeles:20261006T153000
 DTEND;TZID=America/Los_Angeles:20261006T173000
@@ -2039,7 +2039,7 @@ DESCRIPTION:Bus departs: 1:00 PM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:c07c696c-c384-40db-8a05-03459314ad95
+UID:f7b5fb70-37e2-4370-bfbb-95e4e9d47758
 SUMMARY:PP @ Whitter
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
@@ -2047,7 +2047,7 @@ DESCRIPTION:Watch: https://go.flocollege.com/teams/pomona-pitzer-colleges?sp=con
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:2310e155-f8c4-46cd-9b8f-d71ce983af24
+UID:120a43a1-17c4-485c-92e7-dc8f3fb8ac4c
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20261007T140000
 DTEND;TZID=America/Los_Angeles:20261007T160000
@@ -2055,7 +2055,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:11be1036-8c1e-4fcc-b32d-3ece8a55317d
+UID:aac2407f-5640-4ba9-88c0-25fe5651d949
 SUMMARY:v Mira Costa HS
 DTSTART;TZID=America/Los_Angeles:20261008T153000
 DTEND;TZID=America/Los_Angeles:20261008T173000
@@ -2064,7 +2064,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:26d39e74-d243-4797-9c3d-e3f3a570219a
+UID:9078f148-48a6-44a0-b533-d917cac2bdef
 SUMMARY:OCEAN VIEW TOURNEY (V)
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
@@ -2073,7 +2073,7 @@ DESCRIPTION:Bus departs: 12:30 PM\nSchedule: https://docs.google.com/spreadsheet
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:ed8bafb8-728a-4724-89a7-9223aacb8238
+UID:bea8a988-c388-402e-aa41-72e84c57cbb1
 SUMMARY:PP v Caltech
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
@@ -2081,7 +2081,7 @@ DESCRIPTION:Watch: https://go.flocollege.com/teams/pomona-pitzer-colleges?sp=con
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:1f7e1f54-1c4f-40ac-9445-1438b91ba278
+UID:5f044dbd-6892-4399-85d4-506dcb411ffc
 SUMMARY:OCEAN VIEW TOURNEY (V)
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
@@ -2090,7 +2090,7 @@ DESCRIPTION:Bus departs: 6:00 AM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:d276b62e-9a43-4cb0-a049-35a2f64d62f1
+UID:9f322632-3ce3-440b-b7e3-49301d3b8052
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20261012T144500
 DTEND;TZID=America/Los_Angeles:20261012T164500
@@ -2098,7 +2098,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:3ca2231c-2add-4076-9e2e-90bb85c06e53
+UID:6d21f39a-6900-4348-a0c0-7f376feac8d1
 SUMMARY:v Culver City HS SENIOR DAY
 DTSTART;TZID=America/Los_Angeles:20261013T153000
 DTEND;TZID=America/Los_Angeles:20261013T173000
@@ -2107,7 +2107,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:725fc4fe-8b44-4566-b4c7-a25dd4c870cd
+UID:10bdade2-5ee9-4687-843f-2e96109eb05c
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20261014T140000
 DTEND;TZID=America/Los_Angeles:20261014T160000
@@ -2115,7 +2115,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:b584949f-bee5-4f5d-9c67-63792b5369ca
+UID:545a3455-6c73-473a-9292-43c1ad382db0
 SUMMARY:LEAGUE TOURNEY TBD
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
@@ -2123,7 +2123,7 @@ DESCRIPTION:Bus departs: 1:00 PM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:192a1c13-77de-4cf6-a855-32ad7a734cef
+UID:51647276-10a5-4e5e-9506-7bdc5c486e89
 SUMMARY:3rd Annual Orange County Championships (JV)
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
@@ -2131,7 +2131,7 @@ DESCRIPTION:Bus departs: 12:30 PM\nSchedule: https://docs.google.com/spreadsheet
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:e3dae32d-3e2a-4d42-ade7-b22f6de28e72
+UID:c317e852-8817-4d34-9e41-b5a507354311
 SUMMARY:PP @ Harvard
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
@@ -2139,7 +2139,7 @@ DESCRIPTION:Sagehens schedule: https://sagehens.com/sports/mens-water-polo\nSche
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:60ef5f9a-b897-4104-87c5-05c8be5028f5
+UID:1d96e656-eabb-489a-89ea-b42fe43a66f5
 SUMMARY:3rd Annual Orange County Championships (JV)
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
@@ -2147,7 +2147,7 @@ DESCRIPTION:Bus departs: 6:00 AM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:5d9ed404-81c4-4b2e-9cb1-acff0839f5af
+UID:dcda2992-b803-4f9e-a485-71a6b848bcb1
 SUMMARY:PP @ Harvard
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
@@ -2155,7 +2155,7 @@ DESCRIPTION:Sagehens schedule: https://sagehens.com/sports/mens-water-polo\nSche
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:43412f7d-78e7-4d88-89ff-5ccbb7cdb288
+UID:4191769d-7960-4910-9226-89279e21acce
 SUMMARY:LEAGUE TOURNEY TBD
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
@@ -2163,7 +2163,7 @@ DESCRIPTION:Bus departs: 1:00 PM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:8a4d741e-499c-4b76-96d7-7dc68f18ac25
+UID:9b27b3f9-c033-49ff-a492-574f92d44adb
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20261020T144500
 DTEND;TZID=America/Los_Angeles:20261020T164500
@@ -2171,7 +2171,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:518e6900-6f06-4de9-87f7-419a835b01ff
+UID:397ae70a-a7e4-452a-af5c-9df20e89fcb5
 SUMMARY:PP @ Redlands
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
@@ -2179,7 +2179,7 @@ DESCRIPTION:Watch: https://go.flocollege.com/teams/pomona-pitzer-colleges?sp=con
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:549671ee-d5cb-4ff7-beb7-d4ba4079de10
+UID:9794501d-78cc-4c60-a4f0-d67b6a3d5c2a
 SUMMARY:@ Malibu HS
 DTSTART;TZID=America/Los_Angeles:20261021T153000
 DTEND;TZID=America/Los_Angeles:20261021T173000
@@ -2188,7 +2188,7 @@ DESCRIPTION:Bus departs: 1:00 PM\nSchedule: https://docs.google.com/spreadsheets
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:6a340fe3-bfb1-4288-a731-01b425302203
+UID:b2127cae-169d-459b-b938-1a3db4c02615
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20261022T151500
 DTEND;TZID=America/Los_Angeles:20261022T171500
@@ -2196,7 +2196,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:da200766-a0da-441e-9a3d-1f814fcce9db
+UID:1f4d7bb5-f7ac-4805-a67f-ab3097d34f9a
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20261023T144500
 DTEND;TZID=America/Los_Angeles:20261023T164500
@@ -2204,7 +2204,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:923aae05-418f-4825-b6b3-01c7ab8b42dd
+UID:ff1d45f8-1018-42e4-95d5-31253b646883
 SUMMARY:PP @ SJ
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
@@ -2212,7 +2212,7 @@ DESCRIPTION:Sagehens schedule: https://sagehens.com/sports/mens-water-polo\nSche
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:57fb7d48-0040-4a28-8f87-ebe944a236ec
+UID:1f589589-f870-4c65-9f66-160a55b57029
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20261024T080000
 DTEND;TZID=America/Los_Angeles:20261024T100000
@@ -2220,7 +2220,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:503ee17a-2132-49fd-97f3-fa89d119b26b
+UID:e6031311-ec15-4da3-b830-884cb192f0af
 SUMMARY:PP @ SJ
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
@@ -2228,7 +2228,7 @@ DESCRIPTION:Sagehens schedule: https://sagehens.com/sports/mens-water-polo\nSche
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:6d49e7ad-bb62-4f0e-9279-85ae7c8e920b
+UID:27d54d92-9043-4e2e-8317-bab8530fba0b
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
@@ -2236,7 +2236,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:a3367e80-9890-47b5-9aa2-77881ca6c194
+UID:a884d2aa-954f-4da5-a2dc-a734806642e3
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
@@ -2244,7 +2244,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:1d075c1d-9598-4155-ab47-465be5bccf85
+UID:37e8bc7e-56f1-4b75-bca9-ffe1fd053dc4
 SUMMARY:PP @ Chapman
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
@@ -2252,7 +2252,7 @@ DESCRIPTION:Watch: https://go.flocollege.com/teams/pomona-pitzer-colleges?sp=con
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:d72a5280-3a34-407a-92ae-bf9fe1bcf518
+UID:1e6d2c88-173f-45b5-95dd-db110645fdb3
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
@@ -2260,7 +2260,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:6ad50411-3956-42d4-8d72-e48dd6789e91
+UID:015bba2f-5eda-4394-9e3b-edb44d345c9a
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
@@ -2268,7 +2268,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:850099fb-2834-4851-8d1a-db77fe6bef36
+UID:ae7b38f3-9c2d-4601-8cb5-d8d76df621aa
 SUMMARY:PP @ La Verne
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
@@ -2276,7 +2276,7 @@ DESCRIPTION:Watch: https://go.flocollege.com/teams/pomona-pitzer-colleges?sp=con
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:684e1c8c-792c-4f40-b5eb-9ae05d05a915
+UID:a96bcf1f-d3cb-42d4-bdf4-a55a394312b2
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
@@ -2284,7 +2284,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:c3b7a7dc-0f6d-4b54-bb4a-503ab0628ce7
+UID:bad4ab15-4c6f-4d28-aa15-a513825693d8
 SUMMARY:PP @ Caltech
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
@@ -2292,7 +2292,7 @@ DESCRIPTION:Watch: https://go.flocollege.com/teams/pomona-pitzer-colleges?sp=con
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:527113bf-864d-4d3c-b89d-a0473a6108ad
+UID:f6ebdc96-3241-4d72-8114-2266d40cbdac
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
@@ -2300,7 +2300,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:a2fc79cf-f133-4632-b738-393b7b56df09
+UID:6eeea0d7-ab56-41fe-a235-7092ccc882d6
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
@@ -2308,7 +2308,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:14c75f00-a7f7-45ab-80a1-f41003b33e69
+UID:8a4282af-b16c-4f7b-9f9e-f37ade8bb1fe
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
@@ -2316,7 +2316,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:db5593ce-2a74-43e2-8887-ba5dc4a0dfa7
+UID:8b130e02-5bbc-4613-bf4c-31056ee9a329
 SUMMARY:PP v CMS
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
@@ -2324,7 +2324,7 @@ DESCRIPTION:Watch: https://go.flocollege.com/teams/pomona-pitzer-colleges?sp=con
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:1bbb483d-b714-450e-b3ce-ad5d6222a7f4
+UID:45b95884-4cb1-4bac-91ca-2855595c7eae
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
@@ -2332,7 +2332,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:f7a45c41-f2f7-4c9f-b4a5-c68e3c426972
+UID:a91ec849-c557-4f99-85bd-6eacd63920cc
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
@@ -2340,7 +2340,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:8f30179e-4bc5-41f1-a8cc-a4f38152bedc
+UID:c932eee7-67b8-4800-99b1-86619c52d996
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
@@ -2348,7 +2348,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:977ef5a7-a8df-4ed4-86c9-5527968422a5
+UID:77bd86e0-106d-4b47-805a-75f65d5e63b4
 SUMMARY:PP v Whittier
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
@@ -2356,7 +2356,7 @@ DESCRIPTION:Watch: https://go.flocollege.com/teams/pomona-pitzer-colleges?sp=con
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:3f3fa30b-b968-4354-a650-7c66834635fb
+UID:20fcd8bc-b79b-48d0-a769-779cb2919414
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
@@ -2364,7 +2364,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:2aadbd94-42b9-4881-9a20-40a4b6de4233
+UID:cec03ea5-1d9f-4670-b48c-617d972ef99f
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
@@ -2372,7 +2372,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:f4506ae9-7627-4a53-90ee-1a1c6613f806
+UID:0116f24f-d82b-462f-867d-720bf7796dab
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
@@ -2380,7 +2380,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:1ea7fb6e-27dc-4f4c-902c-3be9f9315ad4
+UID:311c3f52-d62f-4f17-9bd1-bfde951961e7
 SUMMARY:NO SCHOOL - VETERANS DAY
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
@@ -2388,7 +2388,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:ef0c6283-5fd2-4fe1-8c2a-d3eb0974fd95
+UID:276de814-f585-4b56-9f8a-a6c1648c591b
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
@@ -2396,7 +2396,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:05fca070-8968-4ca6-850b-5dbfda9e48c6
+UID:5d89b37f-32d9-4b7d-a1c2-77cc323c0cc2
 SUMMARY:PP v Oxy
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
@@ -2404,7 +2404,7 @@ DESCRIPTION:Watch: https://go.flocollege.com/teams/pomona-pitzer-colleges?sp=con
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:9b284e63-4f0f-4a66-bb85-a85a95a0cf64
+UID:667f2dc6-2065-42ac-8c29-8a58987eb9c9
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
@@ -2412,7 +2412,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:9b6132c4-f00f-4d33-839a-528ee4fa42ac
+UID:114c2bc8-c49a-462b-93df-affcdd436d5a
 SUMMARY:PP @ Cal Lu
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
@@ -2420,7 +2420,7 @@ DESCRIPTION:Watch: https://go.flocollege.com/teams/pomona-pitzer-colleges?sp=con
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:1585a8f2-0c41-4567-aab9-873e36620ce9
+UID:5e72420d-38ae-43af-be5d-863db4623efa
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
@@ -2428,7 +2428,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:e5e1af4b-78eb-4ed6-8ca2-66b55fe68d62
+UID:3be1046b-52f6-46be-8c87-6a102a98b4e7
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
@@ -2436,7 +2436,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:0020d62a-053e-4483-a986-416a015f1aa0
+UID:7a15fbde-28f6-42a7-98fc-13ca184a537c
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
@@ -2444,7 +2444,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:1bf2db7a-206b-4dd0-b074-2729e71f70c1
+UID:219b5e70-0603-404b-95d2-186c157f2c49
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
@@ -2452,7 +2452,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:3fb84d07-675a-4322-9e67-5c1cbd6f3115
+UID:fb1edf4e-82dc-4832-87b0-442e7b888290
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
@@ -2460,7 +2460,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:67727eec-10a4-4d4e-a68f-b8f75227dac6
+UID:70c95bf2-c8b8-40f0-b271-d26b641f888f
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
@@ -2468,7 +2468,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:d033f643-4b6e-4909-9827-fb4cd6113859
+UID:a32d826e-e482-4f5d-8ce8-9767b50856bb
 SUMMARY:CIF PLAYOFFS
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
@@ -2476,7 +2476,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:eee8942b-c50e-4528-845f-e853de3ab4d7
+UID:32d0e2bd-f7ba-414b-92ca-601126832a6b
 SUMMARY:THANKSGIVING
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
@@ -2484,7 +2484,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:305f155e-1b78-4616-a292-ce8b4b4a929b
+UID:ec6247e1-f0fb-4159-85aa-7785065e10ca
 SUMMARY:WINTER BREAK
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
@@ -2492,7 +2492,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:9e6dacd6-0f41-411c-b4d9-0d02b759b2f9
+UID:1cb462fa-fda9-4e48-b08c-9cc50b6a11ad
 SUMMARY:WINTER BREAK
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
@@ -2500,7 +2500,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:f148deb4-2f7f-4770-a343-ef14f26cd4af
+UID:cbcdbca4-9a9c-405b-b7fe-00e48b3657a2
 SUMMARY:WINTER BREAK
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
@@ -2508,7 +2508,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:52eace72-9166-42f5-892e-e963beab8a32
+UID:79a4aae0-9419-4d8c-a5b6-c81b35b41aa6
 SUMMARY:WINTER BREAK
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
@@ -2516,7 +2516,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:ecd86988-57d3-4b11-b0a8-6a8966b40f00
+UID:6b80a9b9-3ee3-416f-8de3-74eaee6ae561
 SUMMARY:WINTER BREAK
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
@@ -2524,7 +2524,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:d9a13dda-4e78-450f-8396-267941f15c12
+UID:79739da2-5b45-41f2-af5a-e0b45dd8ffb6
 SUMMARY:WINTER BREAK
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
@@ -2532,7 +2532,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:ec87beb8-0152-4a03-9f30-580e09d83c0a
+UID:980301aa-d0b7-4049-ad39-2d198005f8fe
 SUMMARY:WINTER BREAK
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
@@ -2540,7 +2540,7 @@ DESCRIPTION:Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBv
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:bcc416bc-3dbe-4ab8-a5d1-994c922235c7
+UID:c8759ac5-0999-4bac-b557-ec810df708ea
 SUMMARY:@ Notre Dame
 DTSTART;TZID=America/Los_Angeles:20260819T160000
 DTEND;TZID=America/Los_Angeles:20260819T180000
