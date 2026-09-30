@@ -2021,8 +2021,8 @@ DESCRIPTION:Bus departs: 1:00 PM\nALL SAMO Schedule: https://docs.google.com/spr
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:32ee355b885ce54319f29a7a242b5115@samo-water-polo.cdrodriguez.github.io
-SUMMARY:PP @ CMS
+UID:29fd4a0be7677ec590f247320f35541e@samo-water-polo.cdrodriguez.github.io
+SUMMARY:PP @ CMS (BLOCK)
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 DESCRIPTION:Sagehens schedule: https://sagehens.com/sports/mens-water-polo\nALL SAMO Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
@@ -2033,6 +2033,14 @@ UID:37e6f34729a3b6120811248a9fd2fece@samo-water-polo.cdrodriguez.github.io
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20260930T140000
 DTEND;TZID=America/Los_Angeles:20260930T160000
+DESCRIPTION:ALL SAMO Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
+URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
+END:VEVENT
+BEGIN:VEVENT
+UID:77b5454be3258cdab24bd396aa4d9d21@samo-water-polo.cdrodriguez.github.io
+SUMMARY:BLOCK 1-3-5
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
 DESCRIPTION:ALL SAMO Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
@@ -2146,10 +2154,26 @@ DESCRIPTION:Bus departs: 6:00 AM\nALL SAMO Schedule: https://docs.google.com/spr
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
+UID:c6a61425027533bdeb0247b6551653ea@samo-water-polo.cdrodriguez.github.io
+SUMMARY:BLOCK SCHEDULE
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DESCRIPTION:ALL SAMO Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
+URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
+END:VEVENT
+BEGIN:VEVENT
 UID:1e36f369759b4d2f632435a0a0da3516@samo-water-polo.cdrodriguez.github.io
 SUMMARY:Practice
-DTSTART;TZID=America/Los_Angeles:20261012T144500
-DTEND;TZID=America/Los_Angeles:20261012T164500
+DTSTART;TZID=America/Los_Angeles:20261012T143000
+DTEND;TZID=America/Los_Angeles:20261012T163000
+DESCRIPTION:ALL SAMO Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
+URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
+END:VEVENT
+BEGIN:VEVENT
+UID:a59ecbfee671d8ddf8c42e03bbf1bf10@samo-water-polo.cdrodriguez.github.io
+SUMMARY:SAT/PSAT BLOCK
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
 DESCRIPTION:ALL SAMO Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
@@ -2163,10 +2187,26 @@ DESCRIPTION:ALL SAMO Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
+UID:466fd013ddf96af68c98af5e03cfbc08@samo-water-polo.cdrodriguez.github.io
+SUMMARY:BLOCK 2-4-6
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DESCRIPTION:ALL SAMO Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
+URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
+END:VEVENT
+BEGIN:VEVENT
 UID:6dab62279087abe4f8f86e2f3fa51975@samo-water-polo.cdrodriguez.github.io
 SUMMARY:Practice
 DTSTART;TZID=America/Los_Angeles:20261014T140000
 DTEND;TZID=America/Los_Angeles:20261014T160000
+DESCRIPTION:ALL SAMO Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
+URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
+END:VEVENT
+BEGIN:VEVENT
+UID:fc51efb4961a3d5225109bff11f0419e@samo-water-polo.cdrodriguez.github.io
+SUMMARY:BLOCK 1-3-5
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
 DESCRIPTION:ALL SAMO Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
