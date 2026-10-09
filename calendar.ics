@@ -2137,6 +2137,14 @@ DESCRIPTION:Bus departs: 12:30 PM\nAt Edison High School: 21400 Magnolia St\, Hu
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
+UID:32e9fcbad6647aeaa365b2c04575230f@samo-water-polo.cdrodriguez.github.io
+SUMMARY:JV
+DTSTART;TZID=America/Los_Angeles:20261009T144500
+DTEND;TZID=America/Los_Angeles:20261009T164500
+DESCRIPTION:ALL SAMO Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
+URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
+END:VEVENT
+BEGIN:VEVENT
 UID:e5e7cace2a75d0ad7b9c787493c01cd9@samo-water-polo.cdrodriguez.github.io
 SUMMARY:PP v Caltech
 DTSTART;VALUE=DATE:20261010
@@ -2211,11 +2219,19 @@ DESCRIPTION:ALL SAMO Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
-UID:88263efbc2e88b2cad8abc28089a377a@samo-water-polo.cdrodriguez.github.io
-SUMMARY:LEAGUE TOURNEY TBD
+UID:15db9dbadd785144e0cecc93094c638f@samo-water-polo.cdrodriguez.github.io
+SUMMARY:VAR LEAGUE TOURNEY TBD
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 DESCRIPTION:Bus departs: 1:00 PM\nALL SAMO Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
+URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
+END:VEVENT
+BEGIN:VEVENT
+UID:da7e5b90fd856a9ce8de0c4e589657c7@samo-water-polo.cdrodriguez.github.io
+SUMMARY:JV Practice
+DTSTART;TZID=America/Los_Angeles:20261015T151500
+DTEND;TZID=America/Los_Angeles:20261015T171500
+DESCRIPTION:ALL SAMO Schedule: https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 URL:https://docs.google.com/spreadsheets/d/17S6hr4Ipk3LoEz2eBvpfR2KQLlFXOSGJXarxPxMNGKY/edit?gid=660334516#gid=660334516
 END:VEVENT
 BEGIN:VEVENT
